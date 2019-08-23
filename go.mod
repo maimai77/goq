@@ -1,4 +1,4 @@
-module astuart.co/goq
+module github.com/maimai77/goq
 
 go 1.12
 
